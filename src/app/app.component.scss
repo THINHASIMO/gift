@@ -1,0 +1,269 @@
+
+  
+  @-webkit-keyframes $animationName {
+    50% {
+      opacity: 1;
+    }
+    100% {
+      bottom: 250px;
+    }
+  }
+  @-moz-keyframes sparkle {
+    50% {
+      opacity: 1;
+    }
+    100% {
+      bottom: 250px;
+    }
+  }
+  @-ms-keyframes sparkle {
+    50% {
+      opacity: 1;
+    }
+    100% {
+      bottom: 250px;
+    }
+  }
+  @keyframes sparkle {
+    50% {
+      opacity: 1;
+    }
+    100% {
+      bottom: 250px;
+    }
+  }
+  @-webkit-keyframes $animationName {
+    50% {
+      -moz-transform: rotate(-90deg);
+      -ms-transform: rotate(-90deg);
+      -webkit-transform: rotate(-90deg);
+      transform: rotate(-90deg);
+      top: 80px;
+      left: 100px;
+    }
+    100% {
+      -moz-transform: rotate(-60deg);
+      -ms-transform: rotate(-60deg);
+      -webkit-transform: rotate(-60deg);
+      transform: rotate(-60deg);
+      top: 210px;
+      left: -30px;
+    }
+  }
+  @-moz-keyframes openRose2 {
+    50% {
+      -moz-transform: rotate(-90deg);
+      -ms-transform: rotate(-90deg);
+      -webkit-transform: rotate(-90deg);
+      transform: rotate(-90deg);
+      top: 80px;
+      left: 100px;
+    }
+    100% {
+      -moz-transform: rotate(-60deg);
+      -ms-transform: rotate(-60deg);
+      -webkit-transform: rotate(-60deg);
+      transform: rotate(-60deg);
+      top: 210px;
+      left: -30px;
+    }
+  }
+  @-ms-keyframes openRose2 {
+    50% {
+      -moz-transform: rotate(-90deg);
+      -ms-transform: rotate(-90deg);
+      -webkit-transform: rotate(-90deg);
+      transform: rotate(-90deg);
+      top: 80px;
+      left: 100px;
+    }
+    100% {
+      -moz-transform: rotate(-60deg);
+      -ms-transform: rotate(-60deg);
+      -webkit-transform: rotate(-60deg);
+      transform: rotate(-60deg);
+      top: 210px;
+      left: -30px;
+    }
+  }
+  @keyframes openRose2 {
+    50% {
+      -moz-transform: rotate(-90deg);
+      -ms-transform: rotate(-90deg);
+      -webkit-transform: rotate(-90deg);
+      transform: rotate(-90deg);
+      top: 80px;
+      left: 100px;
+    }
+    100% {
+      -moz-transform: rotate(-60deg);
+      -ms-transform: rotate(-60deg);
+      -webkit-transform: rotate(-60deg);
+      transform: rotate(-60deg);
+      top: 210px;
+      left: -30px;
+    }
+  }
+  @-webkit-keyframes $animationName {
+    100% {
+      -moz-transform: rotate(60deg);
+      -ms-transform: rotate(60deg);
+      -webkit-transform: rotate(60deg);
+      transform: rotate(60deg);
+    }
+  }
+  @-moz-keyframes openRose3 {
+    100% {
+      -moz-transform: rotate(60deg);
+      -ms-transform: rotate(60deg);
+      -webkit-transform: rotate(60deg);
+      transform: rotate(60deg);
+    }
+  }
+  @-ms-keyframes openRose3 {
+    100% {
+      -moz-transform: rotate(60deg);
+      -ms-transform: rotate(60deg);
+      -webkit-transform: rotate(60deg);
+      transform: rotate(60deg);
+    }
+  }
+  @keyframes openRose3 {
+    100% {
+      -moz-transform: rotate(60deg);
+      -ms-transform: rotate(60deg);
+      -webkit-transform: rotate(60deg);
+      transform: rotate(60deg);
+    }
+  }
+  @-webkit-keyframes $animationName {
+    100% {
+      -moz-transform: rotate(-30deg);
+      -ms-transform: rotate(-30deg);
+      -webkit-transform: rotate(-30deg);
+      transform: rotate(-30deg);
+    }
+  }
+  @-moz-keyframes openRose4 {
+    100% {
+      -moz-transform: rotate(-30deg);
+      -ms-transform: rotate(-30deg);
+      -webkit-transform: rotate(-30deg);
+      transform: rotate(-30deg);
+    }
+  }
+  @-ms-keyframes openRose4 {
+    100% {
+      -moz-transform: rotate(-30deg);
+      -ms-transform: rotate(-30deg);
+      -webkit-transform: rotate(-30deg);
+      transform: rotate(-30deg);
+    }
+  }
+  @keyframes openRose4 {
+    100% {
+      -moz-transform: rotate(-30deg);
+      -ms-transform: rotate(-30deg);
+      -webkit-transform: rotate(-30deg);
+      transform: rotate(-30deg);
+    }
+  }
+  @-webkit-keyframes $animationName {
+    100% {
+      -moz-transform: rotate(30deg);
+      -ms-transform: rotate(30deg);
+      -webkit-transform: rotate(30deg);
+      transform: rotate(30deg);
+    }
+  }
+  @-moz-keyframes openRose5 {
+    100% {
+      -moz-transform: rotate(30deg);
+      -ms-transform: rotate(30deg);
+      -webkit-transform: rotate(30deg);
+      transform: rotate(30deg);
+    }
+  }
+  @-ms-keyframes openRose5 {
+    100% {
+      -moz-transform: rotate(30deg);
+      -ms-transform: rotate(30deg);
+      -webkit-transform: rotate(30deg);
+      transform: rotate(30deg);
+    }
+  }
+  @keyframes openRose5 {
+    100% {
+      -moz-transform: rotate(30deg);
+      -ms-transform: rotate(30deg);
+      -webkit-transform: rotate(30deg);
+      transform: rotate(30deg);
+    }
+  }
+  @-webkit-keyframes $animationName {
+    50% {
+      box-shadow: 0px 0px 60px #f594b8;
+    }
+  }
+  @-moz-keyframes glowing {
+    50% {
+      box-shadow: 0px 0px 60px #f594b8;
+    }
+  }
+  @-ms-keyframes glowing {
+    50% {
+      box-shadow: 0px 0px 60px #f594b8;
+    }
+  }
+  @keyframes glowing {
+    50% {
+      box-shadow: 0px 0px 60px #f594b8;
+    }
+  }
+  .text-animation {
+    margin-top: 20px;
+    color: #fff; /* Màu văn bản */
+    background-color: #122139; /* Màu nền */
+    padding: 2px; /* Khoảng cách xung quanh văn bản */
+    font-size: 16px; /* Cỡ chữ */
+    font-family: Arial, sans-serif; /* Font chữ */
+    white-space: pre-wrap; /* Chấp nhận các ký tự xuống dòng */
+  }
+  
+  .text-animation br {
+    display: block; /* Hiển thị mỗi thẻ br trên một dòng */
+    content: ''; /* Loại bỏ nội dung của thẻ br */
+  }
+  
+  .text-animation span {
+    display: inline-block; /* Hiển thị từng ký tự một */
+    animation: fadeInText 1s linear forwards; /* Hiệu ứng hiển thị từng ký tự */
+    opacity: 0; /* Ẩn ký tự ban đầu */
+  }
+  
+  @keyframes fadeInText {
+    from {
+        opacity: 0; /* Ẩn ký tự ban đầu */
+    }
+    to {
+        opacity: 1; /* Hiển thị ký tự */
+    }
+  }
+  .text-animation .heart {
+    position: absolute; /* Đặt vị trí tuyệt đối để có thể di chuyển */
+    top: 0; /* Đặt vị trí ban đầu ở trên cùng */
+    left: -30px; /* Đặt vị trí ban đầu ngoài biên trái */
+    opacity: 0; /* Ẩn trái tim ban đầu */
+    animation: flyHeart 1.5s linear forwards; /* Áp dụng hiệu ứng bay ra */
+  }
+  
+  @keyframes flyHeart {
+    0% {
+        opacity: 1; /* Hiển thị trái tim */
+        transform: translate(0, 0); /* Di chuyển về phía trên */
+    }
+    100% {
+        opacity: 0; /* Ẩn trái tim */
+        transform: translate(-100px, -100px); /* Di chuyển ra xa khỏi văn bản */
+    }
+  }
